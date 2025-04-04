@@ -6,7 +6,7 @@ I'm André Alves, passionate about building mobile apps that make a difference. 
 
 # 📝 Summarizing me
 
-I've already worked with different programming tech stacks, like mobile (C++, Python, and Javascript), but my passion is mobile development (specially iOS-native, using Swift and/or Objective-C).
+I've already worked with different programming tech stacks, like scripting (C++, Python, and Javascript), but my passion is mobile development (specially iOS-native, using Swift and/or Objective-C).
 
 But wait, there's more! I'm currently pursuing a Master's in AI, diving into machine learning, deep learning, and more.  I believe in collaboration, communication, and continuous learning, striving to be the ultimate mobile dev.
 
